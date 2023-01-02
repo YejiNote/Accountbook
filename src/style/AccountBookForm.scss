@@ -1,0 +1,47 @@
+.formContainer {
+  width: 60%;
+  max-width: 300px;
+  margin: 0 auto;
+
+  .formInsert {
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+  }
+
+  .formTitle {
+    color: #fff;
+  }
+
+  .form {
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    font-family: "Cafe24SsurroundAir";
+    font-size: 15px;
+    margin: 13px 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 0 10px;
+    border: none;
+    box-sizing: border-box;
+  }
+
+  .addBtn {
+    width: 75px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 35px;
+    border: none;
+    position: relative;
+    left: 50%;
+    translate: -50%;
+    background-color: #d6daff;
+    font-family: "Cafe24Ssurround";
+    font-size: 15px;
+  }
+
+  .addBtn:hover {
+    background-color: #ff4b67;
+  }
+}

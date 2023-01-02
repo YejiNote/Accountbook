@@ -1,0 +1,29 @@
+.head_container {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+
+      .total{
+        font-size: 20px;
+      }
+
+    .month{
+        width: 80px;
+        height: 30px;
+        display: flex;
+        border: none;
+        font-size: 17px;
+        font-family: 'Cafe24Ssurround';
+        color: #333333;
+    }
+
+    .title{
+      margin: 0 auto;
+    }
+  }
+

@@ -1,0 +1,26 @@
+.AccountBookList {
+  width: 500px;
+  max-width: 500px;
+  margin: 0 auto;
+  clear: both;
+}
+
+table {
+  border-collapse: collapse;
+  border-style: hidden;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.showInput {
+  width: 200px;
+  max-width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

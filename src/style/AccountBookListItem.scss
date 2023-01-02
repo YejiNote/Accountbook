@@ -1,0 +1,22 @@
+.tr {
+    width: 400px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 25px;
+    margin: 10px 0;
+  
+
+  .td {
+    width: 400px;
+    height: 50px;
+    background-color: #fff;
+    color: #333333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
